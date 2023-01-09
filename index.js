@@ -29,8 +29,8 @@ function cerateTable(data) {
         <td>${info.ClientType}</td>
         <td>${info.Date}</td>
         <td>${info.DueDate}</td>
-        <td class="text-danger">${info.Total}</td>
-        <td class="text-danger">${info.Balance}</td>
+        <td class="text-danger">$${info.Total}</td>
+        <td class="text-danger">$${info.Balance}</td>
         <td ><button class="${info.Status} rounded ps-3 pe-3">${info.Status}</button></td>
         `;
         tableBody.appendChild(row);
