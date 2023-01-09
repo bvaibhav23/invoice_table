@@ -1,0 +1,152 @@
+  [
+    {
+        "InvoiceId":1,
+        "ClientName":"Vaibhav Bhaskar",
+        "ClientType": "In-state",
+        "Date":"23/05/2022",
+        "DueDate":"15/08/2022",
+        "Total":600.00,
+        "Balance":600.00,
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId":2,
+        "ClientName":"Praveen Tamboli",
+        "ClientType": "In-state",
+        "Date":"06/03/2022",
+        "DueDate":"15/08/2022",
+        "Total":538.22,
+        "Balance":300.22,
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId":3,
+        "ClientName":"Samir Gupta",
+        "ClientType": "Out-state",
+        "Date":"13/04/2022",
+        "DueDate":"15/08/2022",
+        "Total":462.40,
+        "Balance":260.00,
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId":4,
+        "ClientName":"Manish Rao",
+        "ClientType": "Out-state",
+        "Date":"02/07/2022",
+        "DueDate":"15/08/2022",
+        "Total":412.33,
+        "Balance":412.33,
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId":5,
+        "ClientName":"Vijay Chaudhri",
+        "ClientType": "Out-state",
+        "Date":"03/05/2022",
+        "DueDate":"15/08/2022",
+        "Total":566.25,
+        "Balance":600.21,
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId":6,
+        "ClientName":"Arati Narang",
+        "ClientType": "In-state",
+        "Date":"26/01/2022",
+        "DueDate":"15/08/2022",
+        "Total":500,
+        "Balance":500,
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId":7,
+        "ClientName":"Nithin Rao",
+        "ClientType": "In-state",
+        "Date":"04/04/2022",
+        "DueDate":"15/08/2022",
+        "Total":325.49,
+        "Balance":257.35,
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId":8,
+        "ClientName":"Ishani Patil",
+        "ClientType": "In-state",
+        "Date":"14/06/2022",
+        "DueDate":"15/08/2022",
+        "Total":365.22,
+        "Balance":251.22,
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId":9,
+        "ClientName":"Ashish Mhasalkar",
+        "ClientType": "In-state",
+        "Date":"30/05/2022",
+        "DueDate":"15/08/2022",
+        "Total":624.21,
+        "Balance":520.21,
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId":10,
+        "ClientName":"Rashmi Chaudhary",
+        "ClientType": "Out-state",
+        "Date":"25/03/2022",
+        "DueDate":"15/08/2022",
+        "Total":524.25,
+        "Balance":524.25,
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId":11,
+        "ClientName":"Apurva Kaur",
+        "ClientType": "Out-state",
+        "Date":"21/01/2022",
+        "DueDate":"15/08/2022",
+        "Total":254.10,
+        "Balance":200.10,
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId":12,
+        "ClientName":"Nandita Jain",
+        "ClientType": "In-state",
+        "Date":"02/01/2022",
+        "DueDate":"15/08/2022",
+        "Total":204.22,
+        "Balance":206.25,
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId":13,
+        "ClientName":"Abhilasha Misra",
+        "ClientType": "Out-state",
+        "Date":"06/06/2022",
+        "DueDate":"15/08/2022",
+        "Total":426.29,
+        "Balance":356.22,
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId":14,
+        "ClientName":"Surya Jain",
+        "ClientType": "Out-state",
+        "Date":"24/03/2022",
+        "DueDate":"15/08/2022",
+        "Total":365.24,
+        "Balance":365.24,
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId":15,
+        "ClientName":"Rohit Anand",
+        "ClientType": "In-state",
+        "Date":"16/02/2022",
+        "DueDate":"15/08/2022",
+        "Total":254.36,
+        "Balance":114.12,
+        "Status": "Draft"
+    }
+]

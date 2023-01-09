@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(236, 231, 240);
+}
+.inputBlock {
+  background-color: rgb(242, 230, 227);
+  margin: 1rem;
+  width: 100%;
+}
+.Draft {
+  background: rgb(243, 125, 125) !important;
+  color: white;
+}
+.Partial {
+  background-color: rgb(53, 53, 187) !important;
+  color: white;
+}
+.Paid {
+  background-color: rgb(104, 104, 248) !important;
+  color: white;
+}
+button {
+  border: none;
+}
+tr {
+  padding: 1rem;
+}
